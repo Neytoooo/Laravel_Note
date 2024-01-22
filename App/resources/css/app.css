@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-input {
+    /* Ajoutez des styles personnalisés pour les champs d'entrée */
+}
+
+.custom-textarea {
+    /* Ajoutez des styles personnalisés pour les zones de texte */
+}
+
+.custom-button {
+    
+}
